@@ -1,0 +1,37 @@
+*{
+  text-align: center;
+}
+body {
+  margin: 0vw 5vw 0vw 5vw;
+  padding: 0px;
+  background-color: #09046B;
+  color: #93FAF6;
+  font-family: monospace;
+  font-size: 2rem;
+}
+
+body * {
+  box-sizing: border-box;
+}
+
+input, button {
+  font-size: 2rem;
+}
+
+#title {
+  text-shadow: 0px 0px 13px #F6FF00;
+  transition: all 1s;
+}
+
+.generatorTitle {
+  text-decoration: ;
+  color: #000;
+  text-shadow: 0px 0px 13px #ff0072;
+}
+
+#outputText {
+  background-color: #3928FA;
+  border-radius: 1vmin;
+  padding: 3vmin;
+  transition: all 1s;
+}
